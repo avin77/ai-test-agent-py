@@ -1,0 +1,7 @@
+playwright
+pytest
+google-generativeai
+pydantic
+requests
+beautifulsoup4
+pytest-playwright
